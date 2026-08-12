@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# System/OS
+.DS_Store
+Thumbs.db
+
+# IDE/Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
